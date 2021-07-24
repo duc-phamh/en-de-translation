@@ -1,4 +1,4 @@
-# Neural Machine Translation for German-English on the Multi30K dataset
+# German-English Neural Machine Translation - Multi30K dataset
 
 Multi30K is a dataset to stimulate multilingual multimodal research for English-German. It is based on the Flickr30k dataset, which contains 31,014 images sourced from online photo-sharing websites. Each image is paired with five English descriptions. The Multi30K dataset extends the Flickr30K dataset with translated and independent German sentences.
 
